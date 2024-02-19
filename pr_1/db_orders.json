@@ -1,0 +1,50 @@
+[
+  {
+    "from": "Lviv6",
+    "to": "Rivne6",
+    "login": "login100",
+    "price": 78
+  },
+  {
+    "from": "Lviv",
+    "to": "Rivne",
+    "login": "login100",
+    "price": 55
+  },
+  {
+    "from": "Lviv1",
+    "to": "Rivne1",
+    "login": "login100",
+    "price": 87
+  },
+  {
+    "from": "Lviv2",
+    "to": "Rivne2",
+    "login": "login100",
+    "price": 94
+  },
+  {
+    "from": "Lviv3",
+    "to": "Rivne3",
+    "login": "login100",
+    "price": 44
+  },
+  {
+    "from": "Lviv4",
+    "to": "Rivne4",
+    "login": "login100",
+    "price": 20
+  },
+  {
+    "from": "Lviv5",
+    "to": "Rivne5",
+    "login": "login100",
+    "price": 29
+  },
+  {
+    "from": "Lviv44",
+    "to": "Rivne44",
+    "login": "login100",
+    "price": 23
+  }
+]
